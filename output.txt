@@ -1,0 +1,18 @@
+The animal ID: 1 and it's weight when registered is 230.0kg.
+It's a BUFFALO and it's current weight is 282.6399139636678
+The animal ID: 2 and it's weight when registered is 230.0kg.
+It's a BUFFALO and it's current weight is 283.1641934591006
+The animal ID: 8 and it's weight when registered is 233.0kg.
+It's a BUFFALO and it's current weight is 285.747583845624
+The animal ID: 10 and it's weight when registered is 4.0kg.
+It's a RABBIT and it's current weight is 5.128728432727826
+The animal ID: 11 and it's weight when registered is 2.0kg.
+It's a RABBIT and it's current weight is 2.5114002700987674
+The animal ID: 12 and it's weight when registered is 1.0kg.
+It's a RABBIT and it's current weight is 1.2905761544039265
+The animal ID: 5 and it's weight when registered is 26.0kg.
+It's a SHEEP and it's current weight is 30.16981134072497
+The animal ID: 7 and it's weight when registered is 31.0kg.
+It's a SHEEP and it's current weight is 36.318632472156786
+The animal ID: 45 and it's weight when registered is 24.0kg.
+It's a SHEEP and it's current weight is 27.579413594634246
